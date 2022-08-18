@@ -1,12 +1,11 @@
 {
-  "name": "@arco-admin/create-arco-admin-app",
-  "version": "0.0.1",
+  "name": "create-arco-admin",
+  "version": "0.0.2",
   "license": "MIT",
   "author": "koyeo",
   "main": "index.js",
   "bin": {
-    "create-vite-app": "index.js",
-    "cva": "index.js"
+    "create-arco-admin": "index.js"
   },
   "files": [
     "index.js",
