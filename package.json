@@ -1,0 +1,27 @@
+{
+  "name": "@arco-admin/create-arco-admin-app",
+  "version": "0.1",
+  "license": "MIT",
+  "author": "koyeo",
+  "main": "index.js",
+  "bin": {
+    "create-vite-app": "index.js",
+    "cva": "index.js"
+  },
+  "files": [
+    "index.js",
+    "template-*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arco-admin/create-arco-admin-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arco-admin/create-arco-admin-app/issues"
+  },
+  "homepage": "https://github.com/arco-admin/create-arco-admin-app",
+  "dependencies": {
+    "fs-extra": "^9.0.0",
+    "minimist": "^1.2.5"
+  }
+}
