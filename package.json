@@ -1,6 +1,6 @@
 {
   "name": "@arco-admin/create-arco-admin-app",
-  "version": "0.1",
+  "version": "0.0.1",
   "license": "MIT",
   "author": "koyeo",
   "main": "index.js",
