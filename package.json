@@ -1,11 +1,11 @@
 {
-  "name": "create-arco-admin",
+  "name": "create-arco-ui",
   "version": "0.0.3",
   "license": "MIT",
   "author": "koyeo",
   "main": "index.js",
   "bin": {
-    "create-arco-admin": "index.js"
+    "create-arco-ui": "index.js"
   },
   "files": [
     "index.js",
